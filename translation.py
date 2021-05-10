@@ -1,6 +1,6 @@
 class Translation(object):
-    START_TEXT = """<b> Hi <a href='tg://user?id={}'>{}</a>
-𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 𝙹𝙽𝚂 𝚁𝚎𝚗𝚊𝚖𝚎 𝙱𝚘𝚝! </b>
+    START_TEXT = """<b> Hi...
+𝚃𝚑𝚒𝚜 𝚒𝚜 𝙹𝙽𝚂 𝚁𝚎𝚗𝚊𝚖𝚎 𝙱𝚘𝚝! </b>
 
  <b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
 
