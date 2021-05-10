@@ -1,10 +1,10 @@
 class Translation(object):
     START_TEXT = """<b> Hi <a href='tg://user?id={}'>{}</a>
-This is a JNS Rename Bot! </b>
+𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 𝙹𝙽𝚂 𝚁𝚎𝚗𝚊𝚖𝚎 𝙱𝚘𝚝! </b>
 
  <b>♕ POWERED BY ♛</b> <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
 
-<b> /help for more details..</b>"""
+<b> /help 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚍𝚎𝚝𝚊𝚒𝚕𝚜..</b>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
