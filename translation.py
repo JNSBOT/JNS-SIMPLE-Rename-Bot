@@ -1,8 +1,8 @@
 class Translation(object):
-    START_TEXT = """<b> Hi <a href='tg://user?id={}'>{}</a>
+    START_TEXT = """<b> Hi {first}
 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 𝙹𝙽𝚂 𝚁𝚎𝚗𝚊𝚖𝚎 𝙱𝚘𝚝! </b>
 
- <b>♕ POWERED BY ♛</b> <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
+ <b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
 
 <b> /help 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚍𝚎𝚝𝚊𝚒𝚕𝚜..</b>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
