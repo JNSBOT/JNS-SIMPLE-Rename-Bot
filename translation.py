@@ -1,8 +1,8 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Telegram Rename Bot!
+This is a JNS Rename Bot!
 
-<b>Please send me any Telegram file and reply to that file to /rename New Name.mkv</b>
+ <b>♕ POWERED BY ♛</b> <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
 
 /help for more details.."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
@@ -15,10 +15,10 @@ This is a Telegram Rename Bot!
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
-    SAVED_CUSTOM_THUMB_NAIL = "Custom File thumbnail saved. This image will be used in the File."
+    SAVED_CUSTOM_THUMB_NAIL = "Custom File thumbnail saved permanently ✅."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
-    SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
+    SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully.✅ "
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
