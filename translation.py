@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """<b> 𝙸'𝚖 𝚊 𝚜𝚒𝚖𝚙𝚕𝚎  𝚁𝚎𝚗𝚊𝚖𝚎 𝚋𝚘𝚝..! </b> \n
 <b> /help 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚍𝚎𝚝𝚊𝚒𝚕𝚜..</b> \n\n
-➡️For additional features use @JNS_RENAMERPRO_BOT \n\n
+➡️𝙵𝚘𝚛 𝚖𝚘𝚛𝚎 𝚊𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜 @JNS_RENAMERPRO_BOT \n\n
  <b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
@@ -12,6 +12,7 @@ class Translation(object):
     UPLOAD_START = "𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚞𝚙𝚕𝚘𝚊𝚍..📤"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me🤓.**"
+    FILE_TO_VIDEO = """ 𝙰𝚜𝚔 𝙴𝚕𝚍𝚎𝚛 𝚋𝚛𝚘𝚝𝚑𝚎𝚛 𝚏𝚘𝚛 𝚊𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜 @JNS_RENAMERPRO_BOT """
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
