@@ -8,7 +8,7 @@ class Translation(object):
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = """<b> 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚠𝚒𝚝𝚑 </b> <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a> """
     DOWNLOAD_START = "𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍...📥"
-    ABOUT_TEXT = """🤖 𝗠𝗬 𝗡𝗔𝗠𝗘: <a href="https://t.me/RENAMER_jns_bot">JNS RENAMER</a> \n\n 📜𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘: Python3 \n\n👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥: <a href="https://t.me/JINTONS">JINTO NS</a> \n\n 👥 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣:  <a href="https://t.me/JNS_FC_BOTS">SUPPORT GROUP</a> \n\n📮 𝗙𝗥𝗔𝗠𝗘𝗪𝗢𝗥𝗞: <a href="https://github.com/pyrogram/pyrogram">PYROGRAM</a> \n\n 📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟:  <a href="https://t.me/JNS_BOTS">ＪƝ⟆ ᗷ〇Ƭ⟆</a> \n\n 📭𝗦𝗘𝗥𝗩𝗘𝗥: <a href="https://Heroku.com/">HEROKU</a>"""
+    ABOUT_TEXT = """🤖 𝗠𝗬 𝗡𝗔𝗠𝗘: <a href="https://t.me/RENAMER_jns_bot">JNS RENAMER</a> \n\n 📜𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘: <a href="https://www.python.org/">Python3</a> \n\n👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥: <a href="https://t.me/JINTONS">JINTO NS</a> \n\n 👥 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣:  <a href="https://t.me/JNS_FC_BOTS">SUPPORT GROUP</a> \n\n📮 𝗙𝗥𝗔𝗠𝗘𝗪𝗢𝗥𝗞: <a href="https://github.com/pyrogram/pyrogram">PYROGRAM</a> \n\n 📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟:  <a href="https://t.me/JNS_BOTS">ＪƝ⟆ ᗷ〇Ƭ⟆</a> \n\n 📭𝗦𝗘𝗥𝗩𝗘𝗥: <a href="https://Heroku.com/">HEROKU</a>"""
     UPLOAD_START = "𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚞𝚙𝚕𝚘𝚊𝚍..📤"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me🤓.**"
