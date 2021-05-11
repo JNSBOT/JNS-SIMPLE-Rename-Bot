@@ -25,7 +25,7 @@ class Translation(object):
     HELP_USER = """
  <b>✧𝚂𝚎𝚗𝚍 𝚖𝚎 𝚊𝚗𝚢 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙵𝚒𝚕𝚎.</b> \n
  <b>✧𝚁𝚎𝚙𝚕𝚢 𝚝𝚘 𝚝𝚑𝚊𝚝 𝚖𝚎𝚜𝚜𝚊𝚐𝚎 𝚝𝚘 /𝚛𝚎𝚗𝚊𝚖𝚎 𝚗𝚎𝚠 𝚗𝚊𝚖𝚎.𝚎𝚡𝚝𝚎𝚗𝚜𝚒𝚘𝚗.</b> \n
- <b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛ @JNS_BOTS </b>
+ <b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
 """
     REPLY_TO_DOC_FOR_RENAME_FILE = "𝚁𝚎𝚙𝚕𝚢 𝚝𝚘 𝚊 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚖𝚎𝚍𝚒𝚊 𝚝𝚘 `/𝚛𝚎𝚗𝚊𝚖𝚎 𝙽𝚎𝚠 𝙽𝚊𝚖𝚎.𝚎𝚡𝚝𝚎𝚗𝚜𝚒𝚘𝚗` 𝚠𝚒𝚝𝚑 𝚌𝚞𝚜𝚝𝚘𝚖 𝚝𝚑𝚞𝚖𝚋𝚗𝚊𝚒𝚕 𝚜𝚞𝚙𝚙𝚘𝚛𝚝.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
