@@ -56,6 +56,19 @@ async def start(bot, update):
         reply_to_message_id=update.message_id
     )
 
+
+@pyrogram.Client.on_message(pyrogram.filters.command(["file_to_video"]))
+async def FILE_TO_VIDEO(bot, update):
+    # logger.info(update)
+    TRChatBase(update.from_user.id, update.text, "/file_to_video")
+    await bot.send_message(
+        chat_id=update.chat.id,
+        text=Translation.FILE_TO_VIDEO,
+        parse_mode="html",
+        disable_web_page_preview=True,
+        reply_to_message_id=update.message_id
+    )
+
 @pyrogram.Client.on_message(pyrogram.filters.command(["about"]))
 async def about(bot, update):
     # logger.info(update)
