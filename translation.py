@@ -1,6 +1,7 @@
 class Translation(object):
     START_TEXT = """<b> 𝙸'𝚖 𝚊 𝚜𝚒𝚖𝚙𝚕𝚎  𝚁𝚎𝚗𝚊𝚖𝚎 𝚋𝚘𝚝..! </b> \n
 <b> /help 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚍𝚎𝚝𝚊𝚒𝚕𝚜..</b> \n
+For additional features use @JNS_RENAMERPRO_BOT \n
  <b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
