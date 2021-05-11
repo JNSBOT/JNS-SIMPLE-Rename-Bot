@@ -23,8 +23,8 @@ class Translation(object):
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """
- <b>✧𝚂𝚎𝚗𝚍 𝚖𝚎 𝚊𝚗𝚢 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙵𝚒𝚕𝚎.</b>
- <b>✧𝚁𝚎𝚙𝚕𝚢 𝚝𝚘 𝚝𝚑𝚊𝚝 𝚖𝚎𝚜𝚜𝚊𝚐𝚎 𝚝𝚘 /𝚛𝚎𝚗𝚊𝚖𝚎 𝚗𝚎𝚠 𝚗𝚊𝚖𝚎.𝚎𝚡𝚝𝚎𝚗𝚜𝚒𝚘𝚗.</b>
+ <b>✧𝚂𝚎𝚗𝚍 𝚖𝚎 𝚊𝚗𝚢 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙵𝚒𝚕𝚎.</b> \n
+ <b>✧𝚁𝚎𝚙𝚕𝚢 𝚝𝚘 𝚝𝚑𝚊𝚝 𝚖𝚎𝚜𝚜𝚊𝚐𝚎 𝚝𝚘 /𝚛𝚎𝚗𝚊𝚖𝚎 𝚗𝚎𝚠 𝚗𝚊𝚖𝚎.𝚎𝚡𝚝𝚎𝚗𝚜𝚒𝚘𝚗.</b> \n
  <b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛ @JNS_BOTS </b>
 """
     REPLY_TO_DOC_FOR_RENAME_FILE = "𝚁𝚎𝚙𝚕𝚢 𝚝𝚘 𝚊 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚖𝚎𝚍𝚒𝚊 𝚝𝚘 `/𝚛𝚎𝚗𝚊𝚖𝚎 𝙽𝚎𝚠 𝙽𝚊𝚖𝚎.𝚎𝚡𝚝𝚎𝚗𝚜𝚒𝚘𝚗` 𝚠𝚒𝚝𝚑 𝚌𝚞𝚜𝚝𝚘𝚖 𝚝𝚑𝚞𝚖𝚋𝚗𝚊𝚒𝚕 𝚜𝚞𝚙𝚙𝚘𝚛𝚝.."
