@@ -7,7 +7,7 @@ class Translation(object):
 <b> /help 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚍𝚎𝚝𝚊𝚒𝚕𝚜..</b>"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
+    UPGRADE_TEXT = "<b> 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚠𝚒𝚝𝚑 <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a> </b>"
     DOWNLOAD_START = "𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍..."
     UPLOAD_START = "𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚞𝚙𝚕𝚘𝚊𝚍.."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
