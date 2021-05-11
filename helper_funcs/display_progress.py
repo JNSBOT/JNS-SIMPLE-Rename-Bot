@@ -53,6 +53,7 @@ async def progress_for_pyrogram(
             humanbytes(speed),
             # elapsed_time if elapsed_time != '' else "0 s",
             estimated_total_time if estimated_total_time != '' else "0 s"
+            disable_web_page_preview=True,
         )
         try:
             await message.edit(
